@@ -1,0 +1,53 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Titillium Web", sans-serif;
+}
+
+.grid-container-home {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  padding: 100px !important;
+}
+.grid-container-home .grid-item-home {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: none;
+  border-radius: 10px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  width: 350px;
+  height: 350px;
+  margin: 10px;
+  font-size: 30px;
+  text-align: center;
+}
+.grid-container-home .grid-item-home .text-home {
+  float: right;
+  padding: 10px;
+  color: brown;
+}
+.grid-container-home .man {
+  background-image: url(man-fashion.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.grid-container-home .man {
+  background-image: url(man-fashion.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.grid-container-home .man {
+  background-image: url(man-fashion.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.grid-container-home .man {
+  background-image: url(man-fashion.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.grid-container-home .woman {
+  background-image: url(woman.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}/*# sourceMappingURL=home.css.map */
