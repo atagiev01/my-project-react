@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8abb12d9.css",
+    "main.js": "/static/js/main.98616b31.js",
+    "static/media/baku-home.jpg": "/static/media/baku-home.8390f49490c04710e307.jpg",
+    "index.html": "/index.html",
+    "main.8abb12d9.css.map": "/static/css/main.8abb12d9.css.map",
+    "main.98616b31.js.map": "/static/js/main.98616b31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8abb12d9.css",
+    "static/js/main.98616b31.js"
+  ]
+}
